@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "285228379568",
+    "firebase_url": "https://todoapp-72665-default-rtdb.firebaseio.com",
+    "project_id": "todoapp-72665",
+    "storage_bucket": "todoapp-72665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285228379568:android:e5a0de1d1c2725b8f87a75",
+        "android_client_info": {
+          "package_name": "com.example.firebasepushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuyiGr8sv-_8EpD2xRRJJprVxkxlQEnnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285228379568:android:53dc48b8aabdc74af87a75",
+        "android_client_info": {
+          "package_name": "com.example.pushnotificationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuyiGr8sv-_8EpD2xRRJJprVxkxlQEnnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285228379568:android:26cd8074dd2ab4d3f87a75",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuyiGr8sv-_8EpD2xRRJJprVxkxlQEnnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

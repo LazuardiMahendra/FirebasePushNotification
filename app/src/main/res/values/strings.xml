@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirebasePushNotification</string>
+    <string name="msg_token_fmt">FCM Token Anda: %1$s</string>
+    <string name="fcm_notification_channel_name">channelName\n</string>
+    <string name="fcm_notification_channel_description">channelDescription</string>
+</resources>
